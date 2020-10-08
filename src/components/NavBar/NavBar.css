@@ -1,0 +1,32 @@
+.NavMain{
+    background: #172736;
+    display: flex;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+#navLink{
+    margin-left: 2%;
+    padding: 20px 30px 0px 30px;
+
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.3em;
+    line-height: 2;
+}
+#navTitle{
+    margin-left: 5%;
+    padding: 20px;
+    text-decoration: wavy;
+    color: #ffffff;
+    font-size: 1.7em;
+    line-height: 1.5;
+    margin-right: 40vw;
+}
+
+#navLink:hover{
+    background-color: #217783;  
+    padding: 20px 30px 0px 30px;
+
+  }
+  

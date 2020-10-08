@@ -1,0 +1,88 @@
+.c{
+  display: flex;
+  margin-left: 20vw;
+}
+
+.d{
+  margin: 5px;
+}
+
+.homeMainDiv{
+  margin: 0;
+  padding: 0;
+  height: 70vh;
+}
+
+#home{
+  margin: 15px;
+  width: 225px;
+  height: 70px;
+  font-size: 20px;
+  border-right: 25px solid transparent;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+  color: white;
+  background-color: #20a1b3;
+  border: 2px solid #20a1b3;
+}
+
+.nav {
+  margin-left: 20vw;
+}
+
+
+
+.laptop_resume { 
+  position: relative;
+}
+
+.box {
+  width: 270px;
+  height: 190px;
+  background-color: white;
+  position: absolute;
+  bottom: 33%;
+  right: 16%;
+  z-index: 1;
+  border: 1px solid black;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  background-color: white;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 21%;
+  right: 45%;
+  border: 1px solid black;
+}
+
+.laptop_resume > img {
+  position: absolute;
+  bottom: 35%;
+  width: 45%;
+  right: 27%;
+  z-index: 2;
+}
+.bottom{
+
+}
+#button{ 
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  width: 250px;
+  height: 60px;
+  padding: 15px 30px;
+  margin-left: 45vw;
+  background-color: #20a1b3;  
+}
+
+#button:hover{
+  background-color: #217783;  
+
+}
+
