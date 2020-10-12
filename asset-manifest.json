@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WonsultingResumeBuilder/static/css/main.d273553d.chunk.css",
+    "main.js": "/WonsultingResumeBuilder/static/js/main.d6ae4806.chunk.js",
+    "main.js.map": "/WonsultingResumeBuilder/static/js/main.d6ae4806.chunk.js.map",
+    "runtime-main.js": "/WonsultingResumeBuilder/static/js/runtime-main.a305818a.js",
+    "runtime-main.js.map": "/WonsultingResumeBuilder/static/js/runtime-main.a305818a.js.map",
+    "static/js/2.538e842d.chunk.js": "/WonsultingResumeBuilder/static/js/2.538e842d.chunk.js",
+    "static/js/2.538e842d.chunk.js.map": "/WonsultingResumeBuilder/static/js/2.538e842d.chunk.js.map",
+    "index.html": "/WonsultingResumeBuilder/index.html",
+    "precache-manifest.b9ca2bf47c2ac956df28256996e60397.js": "/WonsultingResumeBuilder/precache-manifest.b9ca2bf47c2ac956df28256996e60397.js",
+    "service-worker.js": "/WonsultingResumeBuilder/service-worker.js",
+    "static/css/main.d273553d.chunk.css.map": "/WonsultingResumeBuilder/static/css/main.d273553d.chunk.css.map",
+    "static/js/2.538e842d.chunk.js.LICENSE.txt": "/WonsultingResumeBuilder/static/js/2.538e842d.chunk.js.LICENSE.txt",
+    "static/media/Gradient with White Text-4500x4500.png": "/WonsultingResumeBuilder/static/media/Gradient with White Text-4500x4500.0b4a9a0d.png",
+    "static/media/default.png": "/WonsultingResumeBuilder/static/media/default.07b749f3.png",
+    "static/media/templateA.png": "/WonsultingResumeBuilder/static/media/templateA.e7c51d50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a305818a.js",
+    "static/js/2.538e842d.chunk.js",
+    "static/css/main.d273553d.chunk.css",
+    "static/js/main.d6ae4806.chunk.js"
+  ]
+}
