@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/WonsultingResumeBuilder/static/css/main.d273553d.chunk.css",
-    "main.js": "/WonsultingResumeBuilder/static/js/main.742b564c.chunk.js",
-    "main.js.map": "/WonsultingResumeBuilder/static/js/main.742b564c.chunk.js.map",
+    "main.js": "/WonsultingResumeBuilder/static/js/main.95cd2723.chunk.js",
+    "main.js.map": "/WonsultingResumeBuilder/static/js/main.95cd2723.chunk.js.map",
     "runtime-main.js": "/WonsultingResumeBuilder/static/js/runtime-main.a305818a.js",
     "runtime-main.js.map": "/WonsultingResumeBuilder/static/js/runtime-main.a305818a.js.map",
-    "static/js/2.b47871c1.chunk.js": "/WonsultingResumeBuilder/static/js/2.b47871c1.chunk.js",
-    "static/js/2.b47871c1.chunk.js.map": "/WonsultingResumeBuilder/static/js/2.b47871c1.chunk.js.map",
+    "static/js/2.b971a4ef.chunk.js": "/WonsultingResumeBuilder/static/js/2.b971a4ef.chunk.js",
+    "static/js/2.b971a4ef.chunk.js.map": "/WonsultingResumeBuilder/static/js/2.b971a4ef.chunk.js.map",
     "index.html": "/WonsultingResumeBuilder/index.html",
-    "precache-manifest.52b912614f4eda8c1e665f95d1f3faf5.js": "/WonsultingResumeBuilder/precache-manifest.52b912614f4eda8c1e665f95d1f3faf5.js",
+    "precache-manifest.2de8d4c76752174d2b8920d3d290d27c.js": "/WonsultingResumeBuilder/precache-manifest.2de8d4c76752174d2b8920d3d290d27c.js",
     "service-worker.js": "/WonsultingResumeBuilder/service-worker.js",
     "static/css/main.d273553d.chunk.css.map": "/WonsultingResumeBuilder/static/css/main.d273553d.chunk.css.map",
-    "static/js/2.b47871c1.chunk.js.LICENSE.txt": "/WonsultingResumeBuilder/static/js/2.b47871c1.chunk.js.LICENSE.txt",
+    "static/js/2.b971a4ef.chunk.js.LICENSE.txt": "/WonsultingResumeBuilder/static/js/2.b971a4ef.chunk.js.LICENSE.txt",
     "static/media/Gradient with White Text-4500x4500.png": "/WonsultingResumeBuilder/static/media/Gradient with White Text-4500x4500.0b4a9a0d.png",
     "static/media/default.png": "/WonsultingResumeBuilder/static/media/default.07b749f3.png",
     "static/media/templateA.png": "/WonsultingResumeBuilder/static/media/templateA.e7c51d50.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a305818a.js",
-    "static/js/2.b47871c1.chunk.js",
+    "static/js/2.b971a4ef.chunk.js",
     "static/css/main.d273553d.chunk.css",
-    "static/js/main.742b564c.chunk.js"
+    "static/js/main.95cd2723.chunk.js"
   ]
 }
