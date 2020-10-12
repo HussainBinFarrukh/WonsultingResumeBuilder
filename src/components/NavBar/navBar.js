@@ -10,7 +10,7 @@ class NavBar extends Component {
             <a id="navTitle" href = "https://www.wonsulting.com/">
             WONSULTING
             </a>            
-            <a href="/" id="navLink">Home</a>
+            <a href="/WonsultingResumeBuilder/" id="navLink">Home</a>
             <a href="/faq" id="navLink">Learn More</a>
             <a href="/resume" id="navLink">Get Started</a>
             </div>
